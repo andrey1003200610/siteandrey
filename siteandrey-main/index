@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="cabeçalho">
+<img class="cabeçalhoimagem" src="logonestor.jpeg" alt="LOGO">
+<ul class="cabeçalholista"> loja de armas
+<li class="cabeçalhoitem"> Sobre armas</li>
+<li class="cabeçalhoitem"> muniçao</li>
+<li class="cabeçalhoitem"> Galeria de Fotos</li>
+</ul>
+</header>
+<section class="sobre o site">
+<h2 class="sobre muniçao"> Sobre armas </h2>
+<p class="coisas-armamentos">
+A loja está localizado na região noroeste do
+
+Paraná e pertence ao Núcleo Regional.
+
+</p>
+<p class="ainda-sobre-a loja">
+Atualmente o site e sobre vendas de armas.
+</p>
+</section>
+<section class="lojA">
+<h2 class="ARMARMENTOS"> muniçao </h2>
+<p class="segunda">
+PROMOÇÃO DE MUNIÇÃO
+</p>
+<p class="terça">
+Terça: PROMOÇÃO DE COLETE
+</p>
+<p class="quarta">
+PROMOÇÃO DE ARMAS
+</p>
+<p class="quinta">
+Quinta: PROMOÇÃO DE CAREGADORES
+</p>
+
+<p class="sexta">
+Segunda: FERIADO
+</p>
+</section>
+<section class="galeria">
+<h2 class="fotos"> Galeria </h2>
+<img class="2ema" src="2ema.jpeg" alt="2EMA">
+</section>
+</body>
+</html>
